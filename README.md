@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustineFdz
 - 👀 I’m interested in development web
-- 🌱 I’m currently developing with react, nodejs, mysql, flutter, mangoDB...
+- 🌱 I’m currently developing with react, nodejs, flutter, mysql, mangoDB...
 - 💞️ I’m looking to collaborate on project as a fullstack developer.
 - 📫 How to reach me ? --> https://www.linkedin.com/in/justine-fernandez-348a7a196/
 
